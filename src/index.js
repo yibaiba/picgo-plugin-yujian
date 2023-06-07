@@ -113,7 +113,7 @@ module.exports = (ctx) => {
         default: userConfig.apiType,
         message: '遇见图床推荐: chaoneng',
         alias: '遇见图床类型',
-        required: false
+        required: true
       },
       {
         name: 'token',

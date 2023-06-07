@@ -5,6 +5,7 @@ plugin for [PicGo](https://github.com/Molunerfinn/PicGo)
 - 遇见图床上传
 - 遇见图床地址: "https://www.hualigs.cn/"
 
+根据 https://github.com/yuki-xin/picgo-plugin-web-uploader 该插件改造而成
 ## 使用
 
 ### 图床配置
