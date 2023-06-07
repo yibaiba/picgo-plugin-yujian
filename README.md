@@ -18,3 +18,4 @@ plugin for [PicGo](https://github.com/Molunerfinn/PicGo)
 
 ### 下载该库
 git clone 该库 然后在 picgo中导入本地插件
+或者 使用 picgo install  picgo-plugin-yujian 安装
